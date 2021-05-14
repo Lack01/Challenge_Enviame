@@ -1,0 +1,15 @@
+
+	[{
+		"id": 1,
+		"nombre_empresa": "Delgado Hermanos",
+		"sufijo_empresa": "Hermanos",
+		"descrip_empresa": "misión crítica"
+	},
+
+	{
+		"id": 2,
+		"nombre_empresa": "Apple",
+		"sufijo_empresa": "INC",
+		"descrip_empresa": "Tecnología"
+	}]
+
