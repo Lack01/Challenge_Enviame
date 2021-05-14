@@ -5,7 +5,7 @@ para que funcione completamente el proyecto se deben instalar algunos módulos n
 
 ### Pre-requisitos 📋
 
-*npm i express
+*npm i express /n
 *npm i mongoose
 *npm i faker
 *npm nodemon -D
