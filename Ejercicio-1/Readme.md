@@ -5,13 +5,14 @@ para que funcione completamente el proyecto se deben instalar algunos módulos n
 
 ### Pre-requisitos 📋
 
-*npm i express /n
+*npm i express
 *npm i mongoose
 *npm i faker
 *npm nodemon -D
 *npm i json-server
 *npm i  underscore
 *npm i fs
+
 
 Para entrar al CRUD de API en "Postman" el link es http://localhost:4000/api/empresas para GET y POST, para DELETE y PUT es http://localhost:4000/api/empresas/(id del elemento)
 
